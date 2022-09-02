@@ -14,7 +14,7 @@
 
 #### Older stuff:
 
-* :black_nib: I have only ever posted but a single tweet, back in 2008. [Follow me](https://twitter.com/marcprux) and I pledge that I will compose another one once I hit 250 followers.
+* :writing_hand: I have only ever posted but a single tweet, back in 2008. [Follow me](https://twitter.com/marcprux) and I pledge that I will compose another one once I hit 250 followers.
 * :open_book: Also back in 2008, I developed [Stanza](https://en.wikipedia.org/wiki/Lexcycle), the first iPhone ebook reader on the App Store.
 
 <!--
