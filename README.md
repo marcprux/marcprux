@@ -1,4 +1,4 @@
-:vulcan_salute: Greetings. I am ***Marc Prud'hommeaux*** (that's *ˈprʊːdəˌmoʊ* in en-US, *prydəmo* in fr-FR)<!-- and Miss Jackson if you're nasty -->. I have been programming computers since 1983. <!-- O.G. --> I am now mostly developing applications in the Swift language for Linux and Apple platforms, but I have broad experience in C, Rust, SQL (many flavors), JVM languages (Java, Scala, Kotlin), JS, etc. <!-- and All. That. Jazz. -->
+:vulcan_salute: Greetings. I am ***Marc Prud'hommeaux*** (that's *ˈprʊːdəˌmoʊ* in en-US, *prydəmo* in fr-FR)<!-- and Miss Jackson if you're nasty -->. I have been programming computers since 1983. <!-- O.G. --> I now mostly write applications in the Swift language for Linux and Apple platforms, but I have broad experience in C, Rust, SQL (many flavors), JVM languages (Java, Scala, Kotlin), JS, etc. <!-- and All. That. Jazz. -->
 
 Here are some things I'm working on.
 
@@ -26,3 +26,4 @@ Here are some things I'm working on.
 
 * :writing_hand: I have only ever posted but a single tweet, back in 2008. [Follow me](https://twitter.com/marcprux) and I pledge that I will compose another one once I hit 25k followers. <!-- Last time I checked, I had 46 followers. -->
 * :open_book: Also back in 2008, I developed [Stanza](https://en.wikipedia.org/wiki/Lexcycle), the first iPhone ebook reader on the App Store. <!-- I'll tell that story someday. -->
+
