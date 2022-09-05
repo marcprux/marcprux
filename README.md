@@ -21,11 +21,11 @@ Here are some things I'm working on.
 #### Hobbies:
 
 * :musical_keyboard: **Music**: I am an aspiring melodica player. Never had one lesson, but I assure you that that won't stop me from playing at your event! <!-- and ruining it -->
-* :running: **Running**: I enjoy running, both in my home city of Boston as well as when travelling. I have logged (with RunKeeper) around 8,000 miles (~13,000 km) in the past decade over five continents, including six half-marathons and five marathons (most recently Paris 2022) <!-- This signals that I am healthy. -->
+* :running: **Running**: I enjoy running, both in my home city of Boston as well as when travelling. I have logged (with RunKeeper) around 8,000 miles (~13,000 km) in the past decade across five continents, including six half-marathons and five marathons (most recently Paris 2022) <!-- This signals that I am healthy. -->
 * :small_airplane: **Airplanes**: I am an FAA-licensed singe-engine fixed-wing aircraft pilot with a commercial certificate, instrument rating, and complex & high-performance endorsements (300 PIC hours in: Cessna 172, Piper Warrior, Archer, Arrow, Diamond DA-40, Cirrus SR-20 and SR-22) <!-- Trustworthiness and attention to detail! -->
 
 #### Older stuff:
 
 * :writing_hand: I have only ever posted but a single tweet, back in 2008. [Follow me](https://twitter.com/marcprux) and I pledge that I will compose another one once I hit 25k followers. <!-- Last time I checked, I had 46 followers. -->
-* :open_book: Also back in 2008, I developed [Stanza](https://en.wikipedia.org/wiki/Lexcycle), the first iPhone ebook reader on the App Store. <!-- I'll tell that story someday. -->
+* :open_book: Also back in 2008, I developed [Stanza](https://web.archive.org/web/20111206101048/http://www.lexcycle.com/), the first iPhone ebook reader on the App Store. <!-- I'll tell that story someday. -->
 
